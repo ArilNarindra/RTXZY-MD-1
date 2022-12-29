@@ -5,30 +5,30 @@
 //misal gua lupa nambah atau typo benerin aja bre gua pusing njir awokawok 
 
 //Global Owner//
-global.owner = ['60189830350']  // isi jika perlu
-global.mods = ['60189830350']   // isi jika perlu
-global.prems = ['60189830350']  // isi jika perlu
+global.owner = ['6282124720691']  // isi jika perlu
+global.mods = ['6282124720691']   // isi jika perlu
+global.prems = ['6282124720691']  // isi jika perlu
 
 //Nomor Owner & payment//
-global.nameowner = 'Lynn-Md' // isi nama kalian bebas
+global.nameowner = 'BABOTZ-Md' // isi nama kalian bebas
 global.numberowner = '60189830350' // isi ini untuk mengendalikan bot
-global.digi = '60149431385' // isi dengan nomor dana yg kamu punya 
-global.maxis = '60147675746' // isi dengan nomor pulsa hp kalian
-global.gopay = '6281395861695'
+global.digi = '6282124720691' // isi dengan nomor dana yg kamu punya 
+global.maxis = '6282124720691' // isi dengan nomor pulsa hp kalian
+global.gopay = '6282124720691'
 
 //Nama Bot & Grouplink//
-global.namebot = 'Lynn-MD'
+global.namebot = 'BABOTZ-MD'
 global.gc = 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
-global.web = 'https://github.com/LynnXzy' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.instagram = 'https://instagram.com/botzlynx'
+global.web = 'https://github.com/ArilNarindra' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.instagram = 'www.instagram.com/aril.narindra'
 
 //Tampilan wm Bot dan pesan bot//
-global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
+global.lolkey = 'Aril2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© Lynn-MD'
+global.wm = '© BABOTZ-MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ Lynn-MD'
-global.wm3 = '© Lynn-MD'
+global.wm2 = '⫹⫺ BABOTZ-MD'
+global.wm3 = '© BABOTZ-MD'
 global.wm4 = '© 2021/2022'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 global.wait = '_*Tunggu sedang di proses...*_'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nLynn-MD'
+global.author = 'Bot WhatsApp\nBABOTZ-MD'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
